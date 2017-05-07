@@ -1,0 +1,29 @@
+body {
+  background-image: url(mx.jpg);
+  color: white;
+  font-size: 20px;
+  font-family: 'Love Ya Like A Sister', cursive;
+}
+#sabias {
+  background-color: green;
+  text-align: center;
+}
+h2, h1 {
+  text-align: center;
+}
+img {
+  position: absolute;
+  left: 520px;
+}
+a {
+  text-decoration: none;
+  color: pink;
+}
+a:hover {
+  color: green;
+}
+footer {
+  background-color: white;
+  color: black;
+  text-align: center;
+}
